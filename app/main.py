@@ -90,5 +90,5 @@ def reload():
                             seq3=card3['comic_list'], seq4=card4['comic_list'],
                             seq5=card5['comic_list'], seq6=card6['comic_list'],)
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=80)
+    app.run(host="0.0.0.0", port=8080)
     
